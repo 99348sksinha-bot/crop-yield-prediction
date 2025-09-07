@@ -4,3 +4,4 @@ Features:
   1. Predictive modeling based on various machine learning algorithms (e.g., Linear Regression, Decision Trees, Random Forest).
   2. Integration of diverse data sources such as weather data, soil analysis, and historical yield records.
   3. Potential for incorporating real-time data and satellite imagery for enhanced accuracy.
+  4. This is just demo.
